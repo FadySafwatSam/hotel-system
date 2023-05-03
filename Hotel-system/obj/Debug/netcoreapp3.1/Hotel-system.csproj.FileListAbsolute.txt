@@ -1,0 +1,139 @@
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.exe
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.deps.json
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.runtimeconfig.json
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.runtimeconfig.dev.json
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.pdb
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.csprojAssemblyReference.cache
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.AssemblyInfoInputs.cache
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.AssemblyInfo.cs
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.csproj.CoreCompileInputs.cache
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\staticwebassets\Hotel-system.StaticWebAssets.Manifest.cache
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\staticwebassets\Hotel-system.StaticWebAssets.xml
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hotel-system.styles.css
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.RazorTargetAssemblyInfo.cache
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.pdb
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.genruntimeconfig.cache
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.csproj.CopyComplete
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fady\source\repos\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.Views.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\appsettings.json
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.exe
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.deps.json
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.runtimeconfig.json
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.runtimeconfig.dev.json
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.pdb
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Hotel-system.Views.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.csproj.AssemblyReference.cache
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.AssemblyInfoInputs.cache
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.AssemblyInfo.cs
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.csproj.CoreCompileInputs.cache
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.MvcApplicationPartsAssemblyInfo.cache
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\staticwebassets\Hotel-system.StaticWebAssets.Manifest.cache
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\staticwebassets\Hotel-system.StaticWebAssets.xml
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hotel-system.styles.css
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.RazorTargetAssemblyInfo.cache
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.csproj.CopyComplete
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.dll
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.pdb
+G:\projects backup\Hotel-system\Hotel-system\Hotel-system\obj\Debug\netcoreapp3.1\Hotel-system.genruntimeconfig.cache

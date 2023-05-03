@@ -1,0 +1,13 @@
+﻿body {
+}
+
+
+.background {
+
+    width: 1300px;
+    height: 500px;
+    border-radius: 5%;
+}
+.isbooked {
+    color: red;
+}
